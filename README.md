@@ -2,7 +2,7 @@
 
 Role: Back-end Dev, Front-end Dev, JPA, MySQL, Spring
 
-소요시간: 2022.03 ~ 2022.03
+소요시간: 2024.06 ~ 2024.06
 
 
 
@@ -55,3 +55,8 @@ Role: Back-end Dev, Front-end Dev, JPA, MySQL, Spring
 - DB : MySQL
 - 웹 프레임워크 : spring
 - 기술 : JPA, thymeleaf, Lombok, 스프링 시큐리티
+
+ # 느낀점
+
+ - 스프링 프로젝트를 처음 경험하였습니다.
+ - JPA, 어노테이션, 롬복 등 스프링에 관련된 학습을 하였습니다.
